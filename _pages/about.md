@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me :)
+# About Me
 Halo! I'm currently a M.Sc. student at [City University of Hong Kong <img src='images/logo_CTU2.png' style='width: 1.1em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home). I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.1em;'> in 2023. Now I'm also a research assistant advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
 
 It's still too early for me to clearly position my reseach direction. Recently, I'm focusing on:
@@ -47,7 +47,7 @@ Liu, G., __Zhao, Y*.__, &, Sumbal M.S.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2023</div><img src='images/ECKM-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A meta-analysis study about the relationship between knowledge management strategy and business performance](https://doi.org/10.34190/eckm.24.1.1323)
@@ -58,7 +58,7 @@ Liu, G., Tsui, E., Kianto, A., & **Zhao, Y.**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2022</div><img src='images/ECKM-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge management challenges in start-up companies in China's Great Bay area](https://doi.org/10.34190/eckm.23.2.575)
