@@ -36,7 +36,7 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV.pdf)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2024</div><img src='images/ECKM2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2024</div><img src='images/ECKM-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge transfer across borders in multinational companies](../assets/KM-049-Zhao.pdf)
