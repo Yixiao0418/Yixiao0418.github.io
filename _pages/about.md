@@ -34,17 +34,38 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV.pdf)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge transfer across borders in multinational companies](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Liu, G., *Zhao, Y*.*, &, Sumbal M.S.
+Liu, G.,** Zhao, Y*.**, &, Sumbal M.S.
 
 *European Conference on Knowledge Management 2024 (Accepted)*
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A meta-analysis study about the relationship between knowledge management strategy and business performance](https://doi.org/10.34190/eckm.24.1.1323)
+
+Liu, G., Tsui, E., Kianto, A., & **Zhao, Y.**
+
+*European Conference on Knowledge Management 2023*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge management challenges in start-up companies in China's Great Bay area](https://doi.org/10.34190/eckm.23.2.575)
+
+Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
+
+*European Conference on Knowledge Management 2022*
+</div>
+</div>
 
 # 💻 Experiences
 - *2022.07 - 2024.10* &ensp;  Research Assistant, [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/)
