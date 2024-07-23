@@ -71,8 +71,8 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 
 # 💻 Experiences
 - *2022.07 - 2024.10* &ensp;  Research Assistant, [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/)
-- *2024.04 - 2024.07* &ensp; Apprasial Assistant, Tianyuan Aesstes Apprasial Inc.
-- *2023.02 - 2023.07* &ensp; Business Intern, Shenzhen Changliang Industrial Inc.
+- *2024.04 - 2024.07* &ensp; Apprasial Assistant, Tianyuan Aesstes Apprasial Co., Ltd.
+- *2023.02 - 2023.07* &ensp; Business Intern, Shenzhen Changliang Industrial Co., Ltd.
 
 
 # 🏅 Selected Awards
