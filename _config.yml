@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yixiao Zhao (赵一骁)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "CityUHK(DG), M.Sc. in Business Information Systems :)"
+  location         : "Hongkong S.A.R., China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.li/citations?hl=en&user=XUzl-ToAAAAJ&view_op=list_works&gmla=AOAOcb1IeJBdfkNSnsjxNg-Mb3Y5Yar3xTWTEdMDJLArMZGqGHgeGBkgS1egaOnwXyJ3WUl14Ld5JngiszDbLKlU"
+  email            : # "Lorem@ipsum.com"
+  researchgate     :  "https://www.researchgate.net/profile/Yixiao-Zhao-8"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0007-7291-8338"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
