@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+# About Me :)
 Halo! I'm currently a M.Sc. student at [City University of Hong Kong (Dongguan)](https://www.cityu-dg.edu.cn/en/home). I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) in 2023. Now I'm also a research assitant advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
 
 It's still too early for me to clearly position my reseach direction. Recently, I'm focusing on:
