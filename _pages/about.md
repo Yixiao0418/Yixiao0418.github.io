@@ -75,7 +75,7 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 - *2023.02 - 2023.07* &ensp; Business Intern, Shenzhen Changliang Industrial Inc.
 
 
-# 🎖 Selected Awards
+# 🏅 Selected Awards
 - *2022* &ensp; Second-class Scholarship for Craftsmanship Star Award (Top 3%), Shenzhen Technology University
 - *2022* &ensp; Second-class Scholarship for Outstanding Student Cadre Award (Top 1.5%), Shenzhen Technology University
 - *2022* &ensp; Third-class Scholarship for Outstanding Student Award (Top 2%), Shenzhen Technology University
