@@ -41,7 +41,7 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV.pdf)
 
 [Knowledge transfer across borders in multinational companies](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Liu, G.,** Zhao, Y*.**, &, Sumbal M.S.
+Liu, G., __Zhao, Y*.__, &, Sumbal M.S.
 
 *European Conference on Knowledge Management 2024 (Accepted)*
 </div>
