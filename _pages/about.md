@@ -16,10 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Halo! I'm currently a M.Sc. student at [City University of Hong Kong (Dongguan)](https://www.cityu-dg.edu.cn/en/home). I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) in 2023. Now I'm also a research assitant advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+It's still too early for me to clearly position my reseach direction. Recently, I'm focusing on:
+ 
+  * **Generative Artificial Intelligence for Knowledge Management Systems**
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+  * **Knowledge Transfer and Emerging Techniques**
+
+You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV.pdf)
+
+**Email**: <u>ZHAO.Yixiao@outlook.com</u> or <u>yixiaozhao020418@gmail.com</u>
 
 
 # 🔥 News
