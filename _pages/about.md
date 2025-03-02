@@ -32,6 +32,8 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV.pdf)
 
 
 # 🔥 News
+- *2025.03*: One paper in progressed.
+- *2025.03*: One book chapter in revised.
 - *2024.07*: One paper is accepted by ECKM 2024(Corresponding author).
 
 # 📝 Publications 
@@ -43,7 +45,7 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV.pdf)
 
 Liu, G., __Zhao, Y*.__, &, Sumbal M.S.
 
-*European Conference on Knowledge Management 2024 (Accepted)*
+*European Conference on Knowledge Management 2024*
 </div>
 </div>
 
