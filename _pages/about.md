@@ -26,7 +26,7 @@ It's still too early for me to clearly position my reseach direction. Recently, 
 
   * **Knowledge Transfer and Emerging Techniques**
 
-You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV.pdf)
+You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-202503Intern.pdf)
 
 **Email**: <u>ZHAO.Yixiao@outlook.com</u> or <u>yixiaozhao020418@gmail.com</u>
 
