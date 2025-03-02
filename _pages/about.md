@@ -49,7 +49,7 @@ Liu, G., __Zhao, Y*.__, &, Sumbal M.S.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2023</div><img src='images/ECKM-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2023</div><img src='images/ECKM-2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A meta-analysis study about the relationship between knowledge management strategy and business performance](https://doi.org/10.34190/eckm.24.1.1323)
