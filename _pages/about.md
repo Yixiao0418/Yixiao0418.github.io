@@ -18,23 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Halo! I'm currently a M.Sc. student at [City University of Hong Kong <img src='images/logo_CTU2.png' style='width: 1.1em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home). I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.1em;'> in 2023. Now I'm also a research assistant advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
+Halo! I'm currently a M.Sc. student at [City University of Hong Kong <img src='images/logo_CTU2.png' style='width: 1.1em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home). I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.1em;'> in 2023. Now I'm a research assistant advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
 
 It's still too early for me to clearly position my reseach direction. Recently, I'm focusing on:
  
   * **Generative Artificial Intelligence for Knowledge Management Systems**
 
-  * **Knowledge Transfer and Emerging Techniques**
+  * **Cross-Border Knowledge Transfer**
 
 You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-202503Intern.pdf)
 
-**Email**: <u>ZHAO.Yixiao@outlook.com</u> or <u>yixiaozhao020418@gmail.com</u>
+**Email**: <u>72405956@cityu-dg.edu.cn</u> or <u>yixiaozhao020418@gmail.com</u>
 
 
 # 🔥 News
-- *2025.03*: One paper in progressed.
+- *2025.04*: One paper in progressed.
 - *2025.03*: One book chapter in revised.
-- *2024.07*: One paper is accepted by ECKM 2024(Corresponding author).
+- *2024.07*: One paper is accepted by ECKM 2024 (Corresponding author).
 
 # 📝 Publications 
 
@@ -72,7 +72,7 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 </div>
 
 # 💻 Experiences
-- *2022.07 - 2024.10* &ensp;  Research Assistant, [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/)
+- *2022.07 - 2025.03* &ensp;  Research Assistant, [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/)
 - *2024.04 - 2024.07* &ensp; Apprasial Assistant, Tianyuan Aesstes Apprasial Co., Ltd.
 - *2023.02 - 2023.07* &ensp; Business Intern, Shenzhen Changliang Industrial Co., Ltd.
 
@@ -85,9 +85,16 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 - *2022* &ensp; Third-class Scholarship for Outstanding Student Award (Top 2%), SZTU
 
 <br>
+
 <div align="center">
   <div align="center" style="width:18%">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tcvTFBlEtDfDRbup7oIiRECpstazJ9xy8fG4PCOxRJM"></script>
   </div>
 </div>
 
+<div align="center">
+  <div style="white-space: nowrap;">
+    © Yixiao ZHAO | Last updated: 2025.04
+  </div>
+</div>
+<br>
