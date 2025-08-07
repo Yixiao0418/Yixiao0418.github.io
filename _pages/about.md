@@ -96,7 +96,7 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 
 <div align="center">
   <div style="white-space: nowrap;">
-    © Yixiao ZHAO | Last updated: 2025.04
+    © Yixiao ZHAO | Last updated: 2025.08
   </div>
 </div>
 <br>
