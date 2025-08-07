@@ -21,19 +21,20 @@ redirect_from:
 Halo! I'm currently a M.Sc. student at [City University of Hong Kong <img src='images/logo_CTU2.png' style='width: 1.1em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home). I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.1em;'> in 2023. Now I'm a research assistant advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
 
 It's still too early for me to clearly position my reseach direction. Recently, I'm focusing on:
+  * **AI-assited Review Generation**
  
   * **Generative Artificial Intelligence for Knowledge Management Systems**
 
-  * **Cross-Border Knowledge Transfer**
+  * **AI for Cross-Border Knowledge Transfer in MNCs**
 
-You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-202503Intern.pdf)
+You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-2025-research.pdf)
 
 **Email**: <u>72405956@cityu-dg.edu.cn</u> or <u>yixiaozhao020418@gmail.com</u>
 
 
 # 🔥 News
-- *2025.04*: One paper in progressed.
-- *2025.03*: One book chapter in revised.
+- *2025.08*: One paper in progressed.
+- *2025.07*: One book chapter in revised.
 - *2024.07*: One paper is accepted by ECKM 2024 (Corresponding author).
 
 # 📝 Publications 
@@ -41,7 +42,8 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-202503Intern.p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2024</div><img src='images/ECKM-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Knowledge transfer across borders in multinational companies](../assets/KM-049-Zhao.pdf)
+[Knowledge transfer across borders in multinational companies]
+(https://research.polyu.edu.hk/en/publications/knowledge-transfer-across-borders-in-multinational-companies)
 
 Liu, G., __Zhao, Y*.__, &, Sumbal M.S.
 
