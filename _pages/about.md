@@ -42,8 +42,7 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-2025-research.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECKM 2024</div><img src='images/ECKM-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Knowledge transfer across borders in multinational companies]
-(https://research.polyu.edu.hk/en/publications/knowledge-transfer-across-borders-in-multinational-companies)
+[Knowledge transfer across borders in multinational companies](https://research.polyu.edu.hk/en/publications/knowledge-transfer-across-borders-in-multinational-companies)
 
 Liu, G., __Zhao, Y*.__, &, Sumbal M.S.
 
