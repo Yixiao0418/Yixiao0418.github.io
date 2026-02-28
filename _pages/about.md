@@ -36,6 +36,7 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-2025-research.
 
 # 🔥 News
 - *2026.02*: Nominated as the top 10 Outstanding Graduates of City University of Hong Kong (DG).
+- *2026.01*: I joined [Micro Connect (Shenzhen)](https://microconnect.com/) as an assets operation management intern.
 - *2025.12*: A new book chapter in progressed.
 - *2025.11*: One paper under review.
 - *2025.07*: One book chapter in revised.
