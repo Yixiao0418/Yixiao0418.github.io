@@ -25,7 +25,7 @@ Currently I'm an asset operation management intern at at [Micro Connect (Shenzhe
 Recently, I'm focusing on:
   * **AI-assisted Review Generation**
  
-  * **Generative Artificial Intelligence for Knowledge Management Systems**
+  * **Knowledge Management Systems, Innovation and AI**
 
   * **AI for Cross-Border Knowledge Transfer in MNCs**
 
@@ -78,9 +78,13 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 
 # 💻 Experiences
 - *2026.01 - 2026.06* &ensp; Assets Operation Management Intern, [Micro Connect (Shenzhen)](https://microconnect.com/).
-- *2022.07 - 2025.03* &ensp; Research Assistant, [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
 - *2024.04 - 2024.07* &ensp; Apprasial Assistant, Tianyuan Aesstes Apprasial Co., Ltd.
 - *2023.02 - 2023.07* &ensp; Business Intern, Shenzhen Changliang Industrial Co., Ltd.
+- *2022.07 - Now* &ensp; Research Assistant, [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
+
+# Activities & Societies
+- *2025.09 - 2026.06* &ensp; President of the Basketball Association of CityUHK (DG)
+- *2022.09 - 2023.09* &ensp; Head of the Cultural and Sports Department, Student Union of Business School, SZTU
 
 
 # 🏅 Selected Awards
@@ -101,7 +105,7 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 
 <div align="center">
   <div style="white-space: nowrap;">
-    © Yixiao ZHAO | Last updated: 2025.08
+    © Yixiao ZHAO | Last updated: 2026.02
   </div>
 </div>
 <br>
