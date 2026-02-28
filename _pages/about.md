@@ -29,7 +29,7 @@ Recently, I'm focusing on:
 
   * **AI for Cross-Border Knowledge Transfer in MNCs**
 
-You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-2025-research.pdf)
+You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-202602-en.pdf)
 
 **Email**: <u>72405956@cityu-dg.edu.cn</u> or <u>yixiaozhao020418@gmail.com</u>
 
