@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Halo! I'm currently a M.Sc. student at [City University of Hong Kong <img src='images/logo_CTU2.png' style='width: 1.1em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home). I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.1em;'> in 2023. Now I'm a research assistant advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
+Halo! I'm gained my M.Sc. in Business Information Systems from [City University of Hong Kong <img src='images/logo_CTU2.png' style='width: 1.1em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home). Before that I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.1em;'> in 2023. 
 
-It's still too early for me to clearly position my reseach direction. Recently, I'm focusing on:
+Currently I'm an asset operation management intern at at [Micro Connect (Shenzhen)](https://microconnect.com/). Besides, I’m also a part-time research assistant advised by advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
+
+Recently, I'm focusing on:
   * **AI-assisted Review Generation**
  
   * **Generative Artificial Intelligence for Knowledge Management Systems**
@@ -33,7 +35,9 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-2025-research.
 
 
 # 🔥 News
-- *2025.08*: One paper in progressed.
+- *2026.02*: Nominated as the top 10 Outstanding Graduates of City University of Hong Kong (DG).
+- *2025.12*: A new book chapter in progressed.
+- *2025.11*: One paper under review.
 - *2025.07*: One book chapter in revised.
 - *2024.07*: One paper is accepted by ECKM 2024 (Corresponding author).
 
@@ -73,12 +77,14 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 </div>
 
 # 💻 Experiences
-- *2022.07 - 2025.03* &ensp;  Research Assistant, [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/)
+- *2026.01 - 2026.06* &ensp; Assets Operation Management Intern, [Micro Connect (Shenzhen)](https://microconnect.com/).
+- *2022.07 - 2025.03* &ensp; Research Assistant, [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
 - *2024.04 - 2024.07* &ensp; Apprasial Assistant, Tianyuan Aesstes Apprasial Co., Ltd.
 - *2023.02 - 2023.07* &ensp; Business Intern, Shenzhen Changliang Industrial Co., Ltd.
 
 
 # 🏅 Selected Awards
+- *2026* &ensp; Outstanding Graduates (Top 10), City University of Hong Kong (DG)
 - *2023* &ensp; Third-class Scholarship for Craftsmanship Star Award (Top 6%), SZTU
 - *2023* &ensp; Third-class Scholarship for Outstanding Student Award (Top 2%), SZTU
 - *2022* &ensp; Second-class Scholarship for Craftsmanship Star Award (Top 3%), SZTU
