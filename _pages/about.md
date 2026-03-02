@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 Halo! I am an energetic and confident professional and researcher. My goal is to better apply the knowledge I have learned in my research to practical work and to solve real-world problem. I gained my M.Sc. degree in Business Information Systems from [City University of Hong Kong <img src='images/logo_CTU2.png' style='width: 1.1em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home). Before that I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.1em;'> in 2023. 
 
-Currently I'm an asset operation management intern at at [Micro Connect (Shenzhen)](https://microconnect.com/). Besides, I’m also a part-time research assistant advised by advised by [Dr. Liu Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/).
+Currently I'm an asset operation management intern at at [Micro Connect (Shenzhen)](https://microconnect.com/). Besides, I’m also a part-time research assistant advised by advised by [Dr. LIU Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/), collaborating with [Prof. Chen Jin](https://www.sem.tsinghua.edu.cn/en/info/1217/7130.htm), [Research Center for Technological Innovation, Tsinghua University](https://www.innovation.tsinghua.edu.cn/index_en/index.htm).
 
 Recently, I'm focusing on:
   * **AI-assisted Review Generation**
@@ -38,7 +38,8 @@ You can find my CV here: [Yixiao's Curriculum Vitae](../assets/CV-2026-en.pdf)
 - *2026.02*: Nominated as the top 10 Outstanding Graduates of City University of Hong Kong (DG).
 - *2026.01*: I joined [Micro Connect (Shenzhen)](https://microconnect.com/) as an assets operation management intern.
 - *2025.12*: A new book chapter in progressed.
-- *2025.11*: Participated the 6th International Conference on Innovation & Knowledge Managment (iKM2025) and presented a poster.
+- *2025.11*: Participated the 6th International Conference on Innovation & Knowledge Managment [(iKM2025)](https://ikm.network/)
+ and presented a poster.
 - *2025.11*: One paper under review.
 - *2025.07*: One book chapter in revised.
 - *2024.07*: One paper is accepted by ECKM 2024 (Corresponding author).
