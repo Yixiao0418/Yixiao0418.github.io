@@ -19,13 +19,13 @@ redirect_from:
 
 # About Me
 
-Halo! I am an energetic and confident professional and researcher. My goal is to better apply the knowledge I have learned in research to practical work and to solve real-world problem. I gained my M.Sc. degree in Business Information Systems from [City University of Hong Kong <img src='images/CityUHK.png' style='width: 1.8em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home). Before this, I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.2em;vertical-align: middle;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.8em;vertical-align: middle;'> in 2023. 
+Halo! I am an energetic and confident professional and researcher. My goal is to better apply the knowledge I have learned in research to practical work and to solve real-world problem. I gained my M.Sc. degree in Business Information Systems from [City University of Hong Kong <img src='images/CityUHK.png' style='width: 1.8em;'> (Dongguan)](https://www.cityu-dg.edu.cn/en/home),  where I was awarded TOP 10 Outstanding Graduates Award in 2026. Before this, I received my B.Mgmt. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.2em;vertical-align: middle;'> in 2024 and I was an exchange student at the [Technial University of Applied Sciences Augsburg](https://www.tha.de/en/) <img src='images/logo_THA.png' style='width: 1.8em;vertical-align: middle;'> in 2023. 
 
 Currently I'm an asset operation management intern at at [Micro Connect (Shenzhen)](https://microconnect.com/). Besides, I’m also a part-time research assistant advised by advised by [Dr. LIU Gang](https://scholar.google.li/citations?user=Hz-72DgAAAAJ&hl=en) at [Buisness School](https://bs.sztu.edu.cn/sxy_en/), [Shenzhen Technology University](https://english.sztu.edu.cn/), collaborating with [Prof. CHEN Jin](https://www.sem.tsinghua.edu.cn/en/info/1217/7130.htm), [Research Center for Technological Innovation, Tsinghua University](https://www.innovation.tsinghua.edu.cn/index_en/index.htm) <img src='images/RCTIogo.png' style='width: 9em;vertical-align: middle;'>.
 
+Through my experiences in the industry and in academic research, I equipped myself with programming skills in Python, SQL, data visualization,  digital marketing, and machine learning.       
 
 Recently, I'm focusing on:
-  * **AI-assisted Review Generation**
  
   * **Knowledge Management Systems, Innovation and AI**
 
@@ -93,7 +93,7 @@ Liu, G., Farzad, S., Liu, L., & **Zhao, Y.**
 
 
 # 🏅 Selected Awards
-- *2026* &ensp; Top 10 Outstanding Graduates Nomination, City University of Hong Kong (DG)
+- *2026* &ensp; Top 10 Outstanding Graduates Award, City University of Hong Kong (DG)
 - *2023* &ensp; Third-class Scholarship for Craftsmanship Star Award (Top 6%), SZTU
 - *2023* &ensp; Third-class Scholarship for Outstanding Student Award (Top 2%), SZTU
 - *2022* &ensp; Second-class Scholarship for Craftsmanship Star Award (Top 3%), SZTU
